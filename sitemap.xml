@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
- xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
- http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator https://sitemap-generator.org/ -->
-  <url>
-   <loc>https://theyear12guy.github.io/Gamer-s-Hub/index.html/</loc>
-   <lastmod>2025-07-04T05:52:49.822Z</lastmod>
-   <priority>1.00</priority>
- </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://theyear12guy.github.io/Gamer-s-Hub/index.html</loc>
+		<priority>1.00</priority>
+		<lastmod>2025-07-04</lastmod>
+	</url>
+	<url>
+		<loc>https://theyear12guy.github.io/Gamer-s-Hub/photos.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-07-04</lastmod>
+	</url>
+	<url>
+		<loc>https://theyear12guy.github.io/Gamer-s-Hub/contact.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-07-04</lastmod>
+	</url>
+	<url>
+		<loc>https://theyear12guy.github.io/Gamer-s-Hub/about.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2025-07-04</lastmod>
+	</url>
 </urlset>
